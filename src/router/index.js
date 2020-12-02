@@ -3,6 +3,9 @@ import VueRouter from "vue-router";
 import Index from '../views/Index'
 import About from '../views/About'
 import BathBody from '../views/BathBody'
+import Fragrance from '../views/Fragrance'
+import Makeup from '../views/Makeup'
+import Skincare from '../views/Skincare'
 import Login from '../views/auth/Login'
 import Register from '../views/auth/Register'
 
@@ -28,6 +31,21 @@ const routes = [
     path: "/bath-and-body",
     name: "BathBody",
     component: BathBody
+  },
+  {
+    path: "/fragrance",
+    name: "Fragrance",
+    component: Fragrance
+  },
+  {
+    path: "/makeup",
+    name: "Makeup",
+    component: Makeup
+  },
+  {
+    path: "/skin-care",
+    name: "Skincare",
+    component: Skincare
   },
   {
     path: "/login",
