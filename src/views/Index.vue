@@ -6,6 +6,7 @@
         <Product/>
         <Event/>
         <Info/>
+        <Footer/>
     </div>
 </template>
 
@@ -16,6 +17,7 @@ import MenuProduct from './partial/index/MenuProduct'
 import Product from './partial/index/Product'
 import Event from './partial/index/Event'
 import Info from './partial/index/Info'
+import Footer from './partial/head-footer/Footer'
 export default {
     name: 'Index',
     components: {
@@ -25,6 +27,7 @@ export default {
         Product: Product,
         Event: Event,
         Info: Info,
+        Footer: Footer,
     }
 }
 </script>
