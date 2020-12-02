@@ -18,7 +18,7 @@
 
 			<div class="wrap_header">
 				<!-- Logo -->
-				<a href="index.html" class="logo">
+				<a href="index" class="logo">
 					<img src="images/icons/logo-shannen-orange.jpeg" alt="Logo Shannen" width="100" height="64">
 				</a>
 
@@ -28,27 +28,27 @@
 						<ul class="main_menu">
 
 							<li class="sale-noti">
-								<a href="index.html">HOME</a>
+								<a href="index">HOME</a>
 							</li>
 
 							<li>
-								<a href="skin-care.html">SKIN CARE</a>
+								<a href="skin-care">SKIN CARE</a>
 							</li>
 
 							<li>
-								<a href="fragrance.html">FRAGRANCE</a>
+								<a href="fragrance">FRAGRANCE</a>
 							</li>
 
 							<li>
-								<a href="makeup.html">MAKEUP</a>
+								<a href="makeup">MAKEUP</a>
 							</li>
 
 							<li>
-								<a href="bath-body.html">BATH & BODY</a>
+								<a href="bath-and-body">BATH & BODY</a>
 							</li>
 
 							<li>
-								<a href="contact.html">CONTACT</a>
+								<a href="contact">CONTACT</a>
 							</li>
 						</ul>
 					</nav>
@@ -124,7 +124,7 @@
 							<div class="header-cart-buttons">
 								<div class="header-cart-wrapbtn">
 									<!-- Button -->
-									<a href="cart.html" class="flex-c-m size1 bg1 bo-rad-20 hov1 s-text1 trans-0-4">
+									<a href="cart" class="flex-c-m size1 bg1 bo-rad-20 hov1 s-text1 trans-0-4">
 										View Cart
 									</a>
 								</div>
@@ -145,7 +145,7 @@
 		<!-- Header Mobile -->
 		<div class="wrap_header_mobile">
 			<!-- Logo moblie -->
-			<a href="index.html" class="logo-mobile">
+			<a href="index" class="logo-mobile">
 				<img src="images/icons/logo.png" alt="IMG-LOGO">
 			</a>
 
@@ -222,7 +222,7 @@
 							<div class="header-cart-buttons">
 								<div class="header-cart-wrapbtn">
 									<!-- Button -->
-									<a href="cart.html" class="flex-c-m size1 bg1 bo-rad-20 hov1 s-text1 trans-0-4">
+									<a href="cart" class="flex-c-m size1 bg1 bo-rad-20 hov1 s-text1 trans-0-4">
 										View Cart
 									</a>
 								</div>
@@ -268,27 +268,27 @@
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="index.html">HOME</a>
+						<a href="index">HOME</a>
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="skin-care.html">SKIN CARE</a>
+						<a href="skin-care">SKIN CARE</a>
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="fragrance.html">FRAGRANCE</a>
+						<a href="fragrance">FRAGRANCE</a>
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="makeup.html">MAKE UP</a>
+						<a href="makeup">MAKE UP</a>
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="bath-body.html">BATH & BODY</a>
+						<a href="bath-and-body">BATH & BODY</a>
 					</li>
 
 					<li class="item-menu-mobile">
-						<a href="contact.html">CONTACT</a>
+						<a href="contact">CONTACT</a>
 					</li>
 				</ul>
 			</nav>

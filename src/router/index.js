@@ -2,6 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Index from '../views/Index'
 import About from '../views/About'
+import BathBody from '../views/BathBody'
 import Login from '../views/auth/Login'
 import Register from '../views/auth/Register'
 
@@ -14,6 +15,21 @@ const routes = [
     component: Index
   },
   {
+    path: "/index",
+    name: "Index",
+    component: Index
+  },
+  {
+    path: "/about",
+    name: "About",
+    component: About
+  },
+  {
+    path: "/bath-and-body",
+    name: "BathBody",
+    component: BathBody
+  },
+  {
     path: "/login",
     name: "Login",
     component: Login
@@ -22,11 +38,6 @@ const routes = [
     path: "/register",
     name: "Register",
     component: Register
-  },
-  {
-    path: "/about",
-    name: "About",
-    component: About
   },
   // {
   //   path: "/login",
