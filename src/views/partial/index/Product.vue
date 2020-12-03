@@ -33,7 +33,7 @@
 							</div>
 
 							<div class="block2-txt p-t-20">
-								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
+								<a href="product-detail" class="block2-name dis-block s-text3 p-b-5">
 									Lip Paint
 								</a>
 
@@ -66,7 +66,7 @@
 							</div>
 
 							<div class="block2-txt p-t-20">
-								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
+								<a href="product-detail" class="block2-name dis-block s-text3 p-b-5">
 									Refresh Facial Mist
 								</a>
 
@@ -99,7 +99,7 @@
 							</div>
 
 							<div class="block2-txt p-t-20">
-								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
+								<a href="product-detail" class="block2-name dis-block s-text3 p-b-5">
 									Purifying Charcoal
 								</a>
 
@@ -132,7 +132,7 @@
 							</div>
 
 							<div class="block2-txt p-t-20">
-								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
+								<a href="product-detail" class="block2-name dis-block s-text3 p-b-5">
 									Lip
 								</a>
 
@@ -169,7 +169,7 @@
 							</div>
 
 							<div class="block2-txt p-t-20">
-								<a href="product-detail.html" class="block2-name dis-block s-text3 p-b-5">
+								<a href="product-detail" class="block2-name dis-block s-text3 p-b-5">
 									BB Cushion
 								</a>
 

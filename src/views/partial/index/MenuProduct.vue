@@ -9,7 +9,7 @@
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
-							<a href="skin-care.html" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+							<a href="skin-care" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
 								SKIN CARE
 							</a>
 						</div>
@@ -23,7 +23,7 @@
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
-							<a href="fragrance.html" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+							<a href="fragrance" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
 								FRAGRANE
 							</a>
 						</div>
@@ -37,7 +37,7 @@
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
-							<a href="makeup.html" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+							<a href="makeup" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
 								MAKE UP
 							</a>
 						</div>
@@ -51,7 +51,7 @@
 
 						<div class="block1-wrapbtn w-size2">
 							<!-- Button -->
-							<a href="bath-body.html" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+							<a href="bath-body" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
 								BATH & BODY
 							</a>
 						</div>
