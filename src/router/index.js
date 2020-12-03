@@ -7,6 +7,7 @@ import BathBody from '../views/BathBody'
 import Fragrance from '../views/Fragrance'
 import Makeup from '../views/Makeup'
 import Skincare from '../views/Skincare'
+import Cart from '../views/Cart'
 import Login from '../views/auth/Login'
 import Register from '../views/auth/Register'
 
@@ -52,6 +53,11 @@ const routes = [
     path: "/skin-care",
     name: "Skincare",
     component: Skincare
+  },
+  {
+    path: "/cart",
+    name: "Cart",
+    component: Cart
   },
   {
     path: "/login",
