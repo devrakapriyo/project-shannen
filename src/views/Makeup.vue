@@ -13,7 +13,7 @@
     import Products from './partial/makeup/Products'
     import Footer from './partial/head-footer/Footer'
     export default {
-        name: 'Index',
+        name: 'box',
         components: {
             Navbar: Navbar,
             Header: Header,

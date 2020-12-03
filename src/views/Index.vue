@@ -19,7 +19,7 @@ import Event from './partial/index/Event'
 import Info from './partial/index/Info'
 import Footer from './partial/head-footer/Footer'
 export default {
-    name: 'Index',
+    name: 'box',
     components: {
         Navbar: Navbar,
         Slider: Slider,
