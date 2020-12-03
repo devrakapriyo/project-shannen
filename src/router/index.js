@@ -2,6 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Index from '../views/Index'
 import About from '../views/About'
+import Contact from '../views/Contact'
 import BathBody from '../views/BathBody'
 import Fragrance from '../views/Fragrance'
 import Makeup from '../views/Makeup'
@@ -26,6 +27,11 @@ const routes = [
     path: "/about",
     name: "About",
     component: About
+  },
+  {
+    path: "/contact",
+    name: "Contact",
+    component: Contact
   },
   {
     path: "/bath-and-body",
