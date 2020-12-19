@@ -1,140 +1,142 @@
 <template>
-    <footer class="bg6 p-t-45 p-b-43 p-l-45 p-r-45">
-        <div class="flex-w p-b-90">
-            <div class="w-size6 p-t-30 p-l-15 p-r-15 respon3">
-                <h4 class="s-text12 p-b-30">
-                    GET IN TOUCH
-                </h4>
+    <div class="box">
+        <footer class="bg6 p-t-45 p-b-43 p-l-45 p-r-45">
+            <div class="flex-w p-b-90">
+                <div class="w-size6 p-t-30 p-l-15 p-r-15 respon3">
+                    <h4 class="s-text12 p-b-30">
+                        GET IN TOUCH
+                    </h4>
 
-                <div>
-                    <p class="s-text7 w-size27">
-                        Any questions? Let us know in store at Ruko Tol Boulevard Blok G21 - 22, Jalan Pahlawan Seribu, Kelurahan Rawabuntu, Kecamatan Serpong Kota Tangerang Selatan Provinsi Banten
-                    </p>
+                    <div>
+                        <p class="s-text7 w-size27">
+                            Any questions? Let us know in store at Ruko Tol Boulevard Blok G21 - 22, Jalan Pahlawan Seribu, Kelurahan Rawabuntu, Kecamatan Serpong Kota Tangerang Selatan Provinsi Banten
+                        </p>
 
-                    <div class="flex-m p-t-30">
-                        <a href="#" class="fs-18 color1 p-r-20 fa fa-facebook"></a>
-                        <a href="#" class="fs-18 color1 p-r-20 fa fa-instagram"></a>
-                        <a href="#" class="fs-18 color1 p-r-20 fa fa-youtube-play"></a>
+                        <div class="flex-m p-t-30">
+                            <a href="#" class="fs-18 color1 p-r-20 fa fa-facebook"></a>
+                            <a href="#" class="fs-18 color1 p-r-20 fa fa-instagram"></a>
+                            <a href="#" class="fs-18 color1 p-r-20 fa fa-youtube-play"></a>
+                        </div>
                     </div>
+                </div>
+
+                <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+                    <h4 class="s-text12 p-b-30">
+                        Categories
+                    </h4>
+
+                    <ul>
+                        <li class="p-b-9">
+                            <a href="skin-care.html" class="s-text7">
+                                Skin Care
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="fragrance.html" class="s-text7">
+                                Fragrance
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="makeup.html" class="s-text7">
+                                Makeup
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="bath-body.html" class="s-text7">
+                                Bath & Body
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+                    <h4 class="s-text12 p-b-30">
+                        Links
+                    </h4>
+
+                    <ul>
+                        <li class="p-b-9">
+                            <a href="about.html" class="s-text7">
+                                About Us
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="contact.html" class="s-text7">
+                                Contact Us
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
+                    <h4 class="s-text12 p-b-30">
+                        Help
+                    </h4>
+
+                    <ul>
+                        <li class="p-b-9">
+                            <a href="#" class="s-text7">
+                                Track Order
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="#" class="s-text7">
+                                Shipping
+                            </a>
+                        </li>
+
+                        <li class="p-b-9">
+                            <a href="#" class="s-text7">
+                                FAQs
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="w-size8 p-t-30 p-l-15 p-r-15 respon3">
+                    <h4 class="s-text12 p-b-30">
+                        Newsletter
+                    </h4>
+
+                    <form>
+                        <div class="effect1 w-size9">
+                            <input class="s-text7 bg6 w-full p-b-5" type="text" name="email" placeholder="email@example.com">
+                            <span class="effect1-line"></span>
+                        </div>
+
+                        <div class="w-size2 p-t-20">
+                            <!-- Button -->
+                            <button class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
+                                Subscribe
+                            </button>
+                        </div>
+
+                    </form>
                 </div>
             </div>
 
-            <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
-                <h4 class="s-text12 p-b-30">
-                    Categories
-                </h4>
+            <div class="t-center p-l-15 p-r-15">
 
-                <ul>
-                    <li class="p-b-9">
-                        <a href="skin-care.html" class="s-text7">
-                            Skin Care
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="fragrance.html" class="s-text7">
-                            Fragrance
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="makeup.html" class="s-text7">
-                            Makeup
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="bath-body.html" class="s-text7">
-                            Bath & Body
-                        </a>
-                    </li>
-                </ul>
+                <div class="t-center s-text8 p-t-20">
+                    Copyright © 2020 All rights reserved shannenglobal.co.id.
+                </div>
             </div>
+        </footer>
 
-            <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
-                <h4 class="s-text12 p-b-30">
-                    Links
-                </h4>
-
-                <ul>
-                    <li class="p-b-9">
-                        <a href="about.html" class="s-text7">
-                            About Us
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="contact.html" class="s-text7">
-                            Contact Us
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="w-size7 p-t-30 p-l-15 p-r-15 respon4">
-                <h4 class="s-text12 p-b-30">
-                    Help
-                </h4>
-
-                <ul>
-                    <li class="p-b-9">
-                        <a href="#" class="s-text7">
-                            Track Order
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="#" class="s-text7">
-                            Shipping
-                        </a>
-                    </li>
-
-                    <li class="p-b-9">
-                        <a href="#" class="s-text7">
-                            FAQs
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="w-size8 p-t-30 p-l-15 p-r-15 respon3">
-                <h4 class="s-text12 p-b-30">
-                    Newsletter
-                </h4>
-
-                <form>
-                    <div class="effect1 w-size9">
-                        <input class="s-text7 bg6 w-full p-b-5" type="text" name="email" placeholder="email@example.com">
-                        <span class="effect1-line"></span>
-                    </div>
-
-                    <div class="w-size2 p-t-20">
-                        <!-- Button -->
-                        <button class="flex-c-m size2 bg4 bo-rad-23 hov1 m-text3 trans-0-4">
-                            Subscribe
-                        </button>
-                    </div>
-
-                </form>
-            </div>
+        <!-- Back to top -->
+        <div class="btn-back-to-top bg0-hov" id="myBtn">
+            <span class="symbol-btn-back-to-top">
+                <i class="fa fa-angle-double-up" aria-hidden="true"></i>
+            </span>
         </div>
 
-        <div class="t-center p-l-15 p-r-15">
-
-            <div class="t-center s-text8 p-t-20">
-                Copyright © 2020 All rights reserved shannenglobal.co.id.
-            </div>
-        </div>
-    </footer>
-
-    <!-- Back to top -->
-    <div class="btn-back-to-top bg0-hov" id="myBtn">
-		<span class="symbol-btn-back-to-top">
-			<i class="fa fa-angle-double-up" aria-hidden="true"></i>
-		</span>
+        <!-- Container Selection -->
+        <div id="dropDownSelect1"></div>
+        <div id="dropDownSelect2"></div>
     </div>
-
-    <!-- Container Selection -->
-    <div id="dropDownSelect1"></div>
-    <div id="dropDownSelect2"></div>
 </template>
